@@ -139,9 +139,9 @@ Files
 
 •	Doublet identification and removal using the scDblFinder package (2021)
 
-•	Removal of clusters that are constituted by >= 30% doublet cells
+•	Removal of clusters that are constituted by >= user defined % (default = 30%) doublet cells
 
-•	Removal of clusters representing low numbers of cell/samples
+•	Removal of clusters representing low numbers of cell/samples (user defined parameters)
 
 •	Re-run UMAP after cluster QC to clean up visualization
 
