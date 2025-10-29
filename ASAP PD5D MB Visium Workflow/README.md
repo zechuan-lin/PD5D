@@ -23,7 +23,7 @@ ST_pipeline.R performs sample integration using the Harmony package and runs the
 
 ## **Contributions and Maintenance**
 
-Code written by Dr. Xufei Teng, modified and uploaded by Dr. Jacob Parker
+Code developed by Dr. Xufei Teng, modified, uploaded and maintained by Dr. Jacob Parker
 
 ## **MIT License**
 
