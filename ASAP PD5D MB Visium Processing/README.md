@@ -1,3 +1,5 @@
+# **PD5D Midbrain Visium Workflow**
+
 This processing pipeline consists of a pair of scripts that perform aggregation, QC (ST_preprocess.R), integration and clustering (ST_pipeline.R) on midbrain visium spatial transcriptomic data as part of the ASAP PD5D Parkinson's Cell Atlas project.
 
 The input to ST_preprocess.R is a csv file (infiles.csv) with the following column names and information:
