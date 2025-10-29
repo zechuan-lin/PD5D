@@ -21,4 +21,4 @@ The input to ST_pipeline.R is the output from ST_preprocess.R, so the scripts ca
 
 ST_pipeline.R performs sample integration using the Harmony package and runs the Seurat function FindClusters() across a range of resolutions that can be specified in-script. For each resolution the script outputs a Seurat object (.rds) containing the cluster annotations and a UMAP plot to enable optimal resolution selection.
 
-Code written by Xufei Teng, modified and uploaded by Jacob Parker
+Code written by Dr. Xufei Teng, modified and uploaded by Dr. Jacob Parker
